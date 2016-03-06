@@ -1,15 +1,15 @@
 <?php
 
 /**
- * PHP implementation of Rapid Automtic Keyword Exraction algorithm (RAKE) for extracting multi-word phrases from text.
+ * PHP implementation of Rapid Automatic Keyword Exraction algorithm (RAKE) for extracting multi-word phrases from text.
  *
  * As described in:
  * ROSE, Stuart, et al. Automatic keyword extraction from individual documents. Text Mining, 2010, 1-20.
  *
  * With help of Python implementation - <a href="https://github.com/aneesha/RAKE">github.com/aneesha/RAKE</a>
  *
- * @author Richard FilipÄÃ­k <richard@filipcik.sk>
- * @version 1.1
+ * @author Richard Filipèík <richard@filipcik.sk>
+ * @version 0.1
  */
 
 class Rake

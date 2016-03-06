@@ -1,6 +1,6 @@
 # RAKE PHP
 
-PHP implementation of Rapid Automtic Keyword Exraction algorithm (RAKE) for extracting multi-word phrases from text.
+PHP implementation of Rapid Automatic Keyword Exraction algorithm (RAKE) for extracting multi-word phrases from text.
 
 As described in:
 
