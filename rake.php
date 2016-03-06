@@ -8,7 +8,7 @@
  *
  * With help of Python implementation - <a href="https://github.com/aneesha/RAKE">github.com/aneesha/RAKE</a>
  *
- * @author Richard Filipèík <richard@filipcik.sk>
+ * @author Richard FilipÄÃ­k <richard@filipcik.sk>
  * @version 0.1
  */
 
